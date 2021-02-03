@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maps.messe.de\/ganzemap.json"
+                 "value":"..\/ig8.json"
                 }],
          "type":"tilelayer",
          "visible":true,
